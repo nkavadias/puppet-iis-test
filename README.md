@@ -3,7 +3,7 @@
 2. You’ll want to deploy that module on a given node. <br>*Done. deploying to 'Node1'.*
 
 3. Structure your solution to ensure – roles and profiles are accounted for <br>
-* Node1 is directly using profile.  Get an error when trying to apply the node->role->profile:
+*Node1 is directly using profile only.  Get an error when trying to apply the node->role->profile:*
 `Could not find class ::iis::features_application_deployment`
 
 4. Note down what limitations the current puppet-iis module has and how would you enhance it.
