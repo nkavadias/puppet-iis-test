@@ -1,4 +1,4 @@
-node 'win2008r2x64.macbank.staff'{
+node 'node1.example.com'{
 # not working with role assinment??
 # include roles::mywebsite_server
 
