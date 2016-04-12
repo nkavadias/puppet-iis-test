@@ -8,7 +8,7 @@
 
 4. Note down what limitations the current puppet-iis module has and how would you enhance it.
 
-*Module does not clean up sites when there are removed.  Would be nice to have an 'explicit option'  which would remove IIS sites which are no longer in config.
+*Module does not clean up sites when they are removed.  Would be nice to have an 'explicit option'  which would remove IIS sites which are no longer in config.
 Module requires you specify a valid app pool.  
 Does not add server windows feature for you, have to DIY.  Would be nice if it added the feature for you.*
 
